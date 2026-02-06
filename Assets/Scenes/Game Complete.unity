@@ -8338,8 +8338,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1073004983}
   - component: {fileID: 1073004986}
-  - component: {fileID: 1073004985}
   - component: {fileID: 1073004984}
+  - component: {fileID: 1073004985}
   m_Layer: 0
   m_Name: Virtual Camera
   m_TagString: Untagged
@@ -8732,7 +8732,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Congratulations, You Saved the World!
+  m_text: "FELICIDADES!, LA ABUELA VENCI\xD3 A LOS TRONQUITOS"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 16e759ee2d7471545ac2cc5005f945bd, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 168f8adf6092e534aa0b514139d2f64e, type: 2}
@@ -9734,7 +9734,7 @@ MonoBehaviour:
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: e828d5e5-f25e-4549-9b31-8ce83aef68e7
+  m_DefaultActionMap: UI
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!1001 &1258002291
