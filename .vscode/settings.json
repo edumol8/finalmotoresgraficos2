@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3D-Platformer.sln"
+    "dotnet.defaultSolution": "finalmotoresgraficos2.sln"
 }
