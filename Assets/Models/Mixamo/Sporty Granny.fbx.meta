@@ -33,22 +33,22 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: FitnessGrandma_FaceAnimMap
-    second: {fileID: 2800000, guid: 148f1b3724664de4fae08901803384bf, type: 3}
+    second: {fileID: 2800000, guid: e56fa543055927d458e559824b86eabe, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: FitnessGrandma_diffuse
-    second: {fileID: 2800000, guid: 495683e5a749c784fb0ce33e26c0271d, type: 3}
+    second: {fileID: 2800000, guid: eae81257e20289c4fa27b3600fef21f3, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: FitnessGrandma_normal
-    second: {fileID: 2800000, guid: 078f0cf539c62ce478511c69a907d252, type: 3}
+    second: {fileID: 2800000, guid: 537c69268e3842f489e769ea053aebf3, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: FitnessGrandma_spec
-    second: {fileID: 2800000, guid: 297b2b8b34098ea4190d796664a8087d, type: 3}
+    second: {fileID: 2800000, guid: 24900ec8d89d0b6418870a8a55a9a16e, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
